@@ -52,10 +52,6 @@ body {
     height: 3.5rem;
 }
 
-.logo:hover {
-    animation: moveInRight 2s ease-out;
-}
-
 .text-box {
     position: absolute;
     top: 40%;
